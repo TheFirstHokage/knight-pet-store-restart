@@ -1,6 +1,6 @@
 package knight.springframework.mypetstore.model;
 
-public class PetType {
+public class PetType extends BaseEntity{
 
     private String name;
 
